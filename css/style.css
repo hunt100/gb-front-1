@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    outline: 1px solid red;
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.header-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header {
+    background: #222222;
+    height: 75px;
+    color: white;
+    padding: 18px 0;
+}
+
+.offer {
+    background-color: #F1E4E6;
+    height: 765px;
+}
+
+.categories {
+    background-color: #FFFFFF;
+}
+
+.feature-products {
+    background-color: #FFFFFF;
+}
+
+.advantages {
+    background-color: #222224;
+    color: #FBFBFB;
+}
+
+.advantages-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.feedback {
+    background-color: #F4F4F4B3;
+}
+
+.footer {
+    background-color: #222224;
+    color: #FBFBFB;
+}
+
+.footer-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
